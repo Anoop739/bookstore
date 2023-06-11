@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "54ba6e24-f435-4037-b298-b35a0fa368f1",
+    "colId": "703fad9d-bf7c-4b57-8a61-a3d6a42153b0",
+    "containerId": "",
+    "name": "local",
+    "url": "localhost:8000/api/v1/books/",
+    "method": "GET",
+    "sortNum": 10000,
+    "created": "2023-03-02T06:17:01.562Z",
+    "modified": "2023-03-02T06:25:35.764Z",
+    "headers": [
+      {
+        "name": "Authorization",
+        "value": "Token 562b23eefc5c980d5532d28a39677cae51c5eb59"
+      }
+    ],
+    "params": [],
+    "body": {
+      "type": "formdata",
+      "raw": "",
+      "form": [
+        {
+          "name": "username",
+          "value": "anoop"
+        },
+        {
+          "name": "password",
+          "value": "anoop"
+        },
+        {
+          "name": "email",
+          "value": "ano@gmail.com"
+        }
+      ]
+    },
+    "tests": []
+  }
+]
